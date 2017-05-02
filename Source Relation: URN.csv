@@ -1,5 +1,6 @@
 Source,Event,Chronological relation,Units or system,Event2,Number of units
-urn:cts:appian:punicwars:27,urn:cts:event:olympiad:first,precedes,olympiad,urn:cts:event:carthage:destruction,160
-urn:cts:livy:periochae:51,urn:cts:event:carthage:destruction,follows,year,urn:cts:event:carthage:foundation,700
-urn:cts:livy:periochae:49,urn:cts:event:carthage:destruction,follows,year,urn:cts:event:thirdpunicwar:start,5
-urn:cts:livy:periochae:49,urn:cts:event:thirdpunicwar:start,follows,year,urn:cts:event:rome:foundation,602
+Ptolemy Canon of Kings,era of Philip,precedes,year,Philometor's end,178
+Livy Periochae 52,Philometor's end,follows,relative,Destruction of Carthage,
+Livy Periochae 51,Destruction of Carthage,follows,year,Foundation of Carthage,700
+Livy Periochae 49,Destruction of Carthage,follows,year,Third Punic War,5
+Livy Periochae 49,Third Punic War,follows,year,Foundation of Rome,602
