@@ -1,6 +1,5 @@
 Source,Event,Chronological relation,Units or system,Event2,Number of units
-Ptolemy Canon of Kings,urn:cite2:chron:jer_macedonians:ruler20,precedes,year,urn:cite2:chron:jer_alexandrians:ruler6,178
-urn:cts:livy:periochae:52,urn:cite2:chron:jer_alexandrians:ruler6,follows,relative,urn:cts:event:carthage:destruction,
+urn:cts:appian:punicwars:27,urn:cts:event:olympiad:first,precedes,olympiad,urn:cts:event:carthage:destruction,160
 urn:cts:livy:periochae:51,urn:cts:event:carthage:destruction,follows,year,urn:cts:event:carthage:foundation,700
 urn:cts:livy:periochae:49,urn:cts:event:carthage:destruction,follows,year,urn:cts:event:thirdpunicwar:start,5
 urn:cts:livy:periochae:49,urn:cts:event:thirdpunicwar:start,follows,year,urn:cts:event:rome:foundation,602
